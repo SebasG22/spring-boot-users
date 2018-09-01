@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: sebastianguevara
+Build-Jdk: 10.0.2
+Implementation-Title: myapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.myapp
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
