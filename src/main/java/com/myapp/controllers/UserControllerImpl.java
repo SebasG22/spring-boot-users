@@ -16,6 +16,9 @@ public class UserControllerImpl {
 		User joel = new User(1,"Joel", 12, "joel@example.com");
 		User pepito =  new User(2,"Pepito", 15, "pepito@any.com");
 		User lorem = new User(3,"Lorem", 24, "lorem@impsum.com");
+		users.put(1, joel);
+		users.put(2, pepito);
+		users.put(3, lorem);
 	}
 	
 	public static List<User> list(){
